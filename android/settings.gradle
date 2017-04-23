@@ -1,0 +1,3 @@
+rootProject.name = 'reactnativeAR'
+
+include ':app'
