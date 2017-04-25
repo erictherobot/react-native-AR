@@ -5,7 +5,7 @@ import {
   View
 } from 'react-native';
 
-export default class App extends Component {
+export class App extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    backgroundColor: '#52EDC7',
   },
   welcome: {
     fontSize: 20,
